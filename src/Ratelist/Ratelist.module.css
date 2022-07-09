@@ -1,0 +1,7 @@
+.ratelist {
+  margin-top: 5rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+}

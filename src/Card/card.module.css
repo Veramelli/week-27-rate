@@ -49,3 +49,14 @@
 .selected .title{
     height: 3.5rem;
 }
+
+.button{
+  border-radius: 15px;
+  border: 2px grey solid;
+  margin: 5px;
+  width: 80%;
+  height: 40px;
+  align-self: center;
+  color: grey;
+  font-size: large;
+}
